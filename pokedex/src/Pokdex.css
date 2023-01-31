@@ -1,0 +1,18 @@
+.Pokdex {
+    text-align: center;
+}
+
+.Pokdex-title {
+    color: darkgray;
+}
+
+.Pokdex-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokdex-winner {
+    font-weight: bold;
+    color: orangered;
+}

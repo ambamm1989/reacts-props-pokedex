@@ -1,0 +1,18 @@
+.Pokcard {
+    display: inline-block;
+    width: 8em;
+    background-color: lightgray;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
+}
+
+.Pokcard-title {
+    color: blue;
+    font-weight: bold;
+}
+
+.Pokcard-data {
+    font-size: 80%;
+}
